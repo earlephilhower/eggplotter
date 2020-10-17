@@ -1,0 +1,8 @@
+Started with https://www.thingiverse.com/thing:3564057
+Modified to work better with my own hardware:
+
+* Adjusted shoulder/arm widths to work with M4x20 screws
+* Added lifting bump to lower arm because my servo horn too short
+* Moved servo contact point closer to middle of lower arm
+* Marlin commit e99ddb2fc430a3e0b19851f11fde9d3400b14b42 based-config
+* New egg.svg for plotting in Inkscake (200x100)

@@ -1,0 +1,8 @@
+M400(Finish move)
+M280 P0 S38(pen up)
+G4 P100(dwell)
+M204 P300 T300(Set acceleration)
+M17(enable motors)
+G90(Absolute mode)
+M206 X0 Y0(set home)
+G92 X0 Y60(set gcode offset)
